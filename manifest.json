@@ -1,0 +1,31 @@
+{
+    "name": "Tachi's Scape",
+    "short_name": "UPMH",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "landscape-primary",
+    "icons": [
+      {
+        "src": "images/icons/suelo.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "images/icons/tachi.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "images/icons/esqueletos.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "images/icons/esqueleto2.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "images/icons/escenario.jpeg",
+        "type": "image/png", "sizes": "192x192"
+      }
+    ]
+  }
